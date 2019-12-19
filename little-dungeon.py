@@ -11,9 +11,9 @@ sword = False
 # ROOM 1
 
 def room_1():
-    print "You are in a big room with blood covered walls."
+    print "You are in a large room with blood covered walls."
     print "It's really dark and all you can see is three doors."
-    print "They lead east, north and west. What do you do?"
+    print "The doors lead to the east, north and west. What do you do?"
 
     choice = raw_input("> ");
 
@@ -39,7 +39,7 @@ def room_2():
     print "On the far end of the first one, you can see a bright light."
     print "From the second one, a really bad smell emanates."
     print "The passage to the east leads to the first room."
-    print "What do you do?"
+    print "What will you do?"
 
     choice = raw_input("> ");
 
